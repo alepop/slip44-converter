@@ -11,6 +11,6 @@
     "url": "git://github.com/alepop/slip44-converter"
   },
   "dependencies": {
-    "bip44-constants": "^5.0.0"
+    "bip44-constants": "8.0.92"
   }
 }

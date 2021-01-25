@@ -2,6 +2,7 @@
 # yarn lockfile v1
 
 
-bip44-constants@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/bip44-constants/-/bip44-constants-5.0.0.tgz#50443239887eadb8a36bd6b3a0a62ca160e1990d"
+bip44-constants@8.0.92:
+  version "8.0.92"
+  resolved "https://registry.yarnpkg.com/bip44-constants/-/bip44-constants-8.0.92.tgz#61cd1f63d8871fd55f919b08cdf771b2f2847f58"
+  integrity sha512-DApTEDmTuQOirigyFNHDK9b/nJTtl8jE0c38u0lHp7QYx2mXqzVyfsUbE8t1TatOuLnVMXWmt4Ugcy1fxYhJBQ==
