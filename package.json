@@ -1,6 +1,6 @@
 {
   "name": "slip44-converter",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "BIP44 address converter",
   "main": "index.js",
   "author": "alepop",
